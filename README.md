@@ -24,7 +24,7 @@ A 3D physics simulation modelling gravitational interactions between multiple ob
 
 ### Requirements
 
-- Python 3.11
+- Python 3.14
 - `numpy`
 - `matplotlib`
 - `PySimpleGUI`
