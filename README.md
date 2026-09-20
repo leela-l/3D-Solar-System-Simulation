@@ -9,8 +9,8 @@ A 3D physics simulation modelling gravitational interactions between multiple ob
 
 - **N-body physics engine**: objects are modelled as classes, with each body's position and velocity updated at every timestep based on the gravitational forces acting on it
 - **Numerical integration with NumPy**: vector calculations update positions and velocities over time
-- **Interactive GUI (PySimpleGUI)**: set simulation parameters (e.g. object masses, starting positions/velocities, timestep, duration) before running, without touching code
-- **Visualisation with Matplotlib**: plot trajectories, forces, energy, and distance between objects over the course of a simulation
+- **Interactive GUI (PySimpleGUI)**: set simulation parameters (e.g. object masses, starting positions/velocities) before running, without touching code
+- **Visualisation with Matplotlib**: plot forces, total energy, GPE, EP, acceleration, velocity, distance, and time between objects over the course of a simulation
 
 
 ## 
