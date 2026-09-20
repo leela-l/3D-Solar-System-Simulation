@@ -2,7 +2,6 @@
 
 A 3D physics simulation modelling gravitational interactions between multiple objects in space, built with Python and object-oriented design. The simulation numerically integrates position and velocity over time and includes a GUI for configuring parameters and a comparative plotting tool for analysing the results.
 
-<img width="1430" height="936" alt="image" src="https://github.com/user-attachments/assets/e639905c-0496-43d3-8761-b287c8e18973" />
 <img width="1914" height="924" alt="image" src="https://github.com/user-attachments/assets/63dd3ea8-d943-4274-84d3-1d3ac253b7c6" />
 <img width="892" height="508" alt="image" src="https://github.com/user-attachments/assets/2f3e9f2b-43f7-48bf-a783-3515900ec386" />
 
